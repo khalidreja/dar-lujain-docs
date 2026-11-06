@@ -108,3 +108,11 @@ dir: rtl
 - **واتساب:** [wa.me/966500071811](https://wa.me/966500071811)
 
 </div>
+
+## صور افتراضية للثيم
+
+صور أصلية تُستخدم كقيم افتراضية في الثيم (يمكن للتاجر استبدالها):
+
+- [شريحة البطل](assets/hero-winter.jpg)
+- [نسائي](assets/tile-women.jpg) · [رجالي](assets/tile-men.jpg) · [أطفال](assets/tile-kids.jpg) · [إكسسوارات](assets/tile-accessories.jpg)
+- [بانر التخفيضات](assets/sale-banner.jpg)
